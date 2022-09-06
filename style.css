@@ -1,0 +1,37 @@
+.honda-header-bg{
+    background-color: #264653;
+}
+.btn-bg-color{
+    background-color: #E76F51;
+}
+.img-greysclae{
+    filter:grayscale(100%);
+}
+
+hr{
+    width: 60px;
+}
+
+.btn-color{
+    color: #E76F51;
+    border:1px solid;
+    border-radius:5px;
+}
+.btn-color:hover{
+    background-color: #E76F51;
+    color: white;
+}
+.user-img-size{
+    width: 200px;
+    margin: auto;
+    
+}
+.fa-solid{
+    color: #E77C40;
+}
+.user-name-color{
+   color:#23A6F0;
+}
+span{
+    color: #E76F51;
+}
