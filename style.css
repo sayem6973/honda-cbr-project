@@ -32,6 +32,38 @@ hr{
 .user-name-color{
    color:#23A6F0;
 }
-span{
+.color-orange{
     color: #E76F51;
+}
+
+.accordion-box-width{
+    
+    
+}
+.footer-height{
+    height: 300px;
+}
+
+.honda-margin{
+    margin-right:200px;
+}
+
+
+
+/* media quesry */
+
+@media only screen and (min-width: 992px) {
+    .accordion-box-width{
+        width:550px;
+
+    }
+    .pos{
+        position: relative;
+        top: 20px;
+
+    }
+    
+
+
+    
 }
